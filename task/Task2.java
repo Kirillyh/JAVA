@@ -21,5 +21,8 @@ public class Task2 {
     public static int giveMeNumber(int a) {
         return (a * (a + 1)) / 2;
     }
+
+    public static void run() {
+    }
     
 }
